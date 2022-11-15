@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "64f9a5c05c44305f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5a3b933856ddcf8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cfcf5fbc20bcba79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DHCP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f84141db98093581",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd241213ab344bf2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f407923d4c62bf85",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "18e5ceca6650fabb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f4f50495ef3e8ad7",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "74c36935288edd3c",
+    "type": "split",
+    "children": [
+      {
+        "id": "10101a632b117932",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ed91ae97b822ab0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DHCP.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e29b58090574a740",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DHCP.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5cd35fc60567bc1b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "97b8e2cd781c3103",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DHCP.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "cfcf5fbc20bcba79",
+  "lastOpenFiles": [
+    "Cisco.md",
+    "Autonomní systém.md",
+    "Antisemitismus.md",
+    "2022-09-20.md",
+    "excalidraw/DHCP-1.excalidraw.md",
+    "excalidraw/časová osa.excalidraw.md",
+    "excalidraw/DNS-2.excalidraw.md",
+    "excalidraw/Marketing.excalidraw.md",
+    "excalidraw/Drawing 2022-09-12 08.33.09.excalidraw.md",
+    "DEMOKRATICKÝ PROUD LITERATURY V ČESKÉ PRÓZE.md"
+  ]
+}

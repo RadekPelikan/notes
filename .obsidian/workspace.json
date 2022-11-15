@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "cc2b4816d9d350e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ccff841c842f885",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b67c54f2fa1ba1e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vzdálený přístup - příkazy cisco.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cfbbdfe1cb1e9000",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DHCP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2656933247948611",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "59d3244d23c2accf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "567929dc27c30016",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7d45de1ed9b89ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04a496bf54c444d7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fd296b816b0d4221",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "marketing",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "423769bade9ee993",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0c2a2ac0ed9f156a",
+    "type": "split",
+    "children": [
+      {
+        "id": "921ccfef438f2330",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c041980c424b752d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Vzdálený přístup - příkazy cisco.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b4fbd67cf8852649",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Vzdálený přístup - příkazy cisco.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c40d4432cbddf242",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "91e15d4dd69db532",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Vzdálený přístup - příkazy cisco.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b67c54f2fa1ba1e9",
+  "lastOpenFiles": [
+    "VLAN.md",
+    "Ústava České republiky.md",
+    "RIP.md",
+    "Marketing.md",
+    "Majetek podniku.md",
+    "excalidraw/Drawing SIT-1excalidraw.md",
+    "Síťová karta VM.md",
+    "Situace v literatuře po 1. SV.md",
+    "Socialismus.md",
+    "Sítě.md"
+  ]
+}

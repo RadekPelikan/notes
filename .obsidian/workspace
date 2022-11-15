@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "39699a379a6db2d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "88e2a3b63dd6ea87",
+        "type": "leaf",
+        "dimension": 33.33333333333333,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "DHCP.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "3d064d9475862690",
+        "type": "leaf",
+        "dimension": 66.66666666666666,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "DNS.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6d58e55768496224",
+    "type": "split",
+    "children": [
+      {
+        "id": "a595810d3e89eda6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e23d3d98724052e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d60b9a3a49f6e385",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "static",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "696f8dac6862f4a7",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b085fd09aa06ff4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c80ff8e4f2abfb7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61611ae9e184390b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DHCP.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4f5d2dabd45acdd9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DHCP.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b1a0cac35851fc1c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "38c63e5498b0bd38",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DHCP.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "88e2a3b63dd6ea87",
+  "lastOpenFiles": [
+    "DNS.md",
+    "OPS příkazy.md",
+    "excalidraw/Drawing 2022-09-12 08.33.09.excalidraw.md",
+    "DHCP.md",
+    "Cisco.md"
+  ]
+}
